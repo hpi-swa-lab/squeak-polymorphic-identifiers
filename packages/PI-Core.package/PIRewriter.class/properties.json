@@ -1,0 +1,14 @@
+{
+	"category" : "PI-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "MLB 2/16/2018 21:51",
+	"instvars" : [
+		 ],
+	"name" : "PIRewriter",
+	"pools" : [
+		 ],
+	"super" : "OhmSourceRewriter",
+	"type" : "normal" }

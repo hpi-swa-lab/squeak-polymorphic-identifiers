@@ -1,0 +1,1 @@
+A PIRelativeScheme allows for relative URIs

@@ -1,0 +1,14 @@
+{
+	"category" : "PI-Examples",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "MLB 2/16/2018 21:46",
+	"instvars" : [
+		"rectangle" ],
+	"name" : "PIExampleMorphic",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

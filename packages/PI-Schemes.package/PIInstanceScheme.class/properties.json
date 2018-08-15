@@ -1,0 +1,14 @@
+{
+	"category" : "PI-Schemes",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "MLB 2/16/2018 21:43",
+	"instvars" : [
+		 ],
+	"name" : "PIInstanceScheme",
+	"pools" : [
+		 ],
+	"super" : "PIBaseSchemaHandler",
+	"type" : "normal" }

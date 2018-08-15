@@ -1,0 +1,14 @@
+{
+	"category" : "PI-Schemes",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PISchemaHandler",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

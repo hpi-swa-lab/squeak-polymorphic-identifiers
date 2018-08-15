@@ -1,0 +1,1 @@
+A PICompiler is the custom compilerClass that implements the rewriting of the source string.

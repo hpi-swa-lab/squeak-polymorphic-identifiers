@@ -1,0 +1,9 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"AssignmentOperation:withBindableIdentifier:withPrimitive:" : "MLB 2/16/2018 18:17",
+		"Statement:withOptionalAssignmentOperation:withExpression:" : "MLB 2/16/2018 18:17",
+		"Statements:withManyStatements:withLiterals:" : "MLB 2/16/2018 18:18",
+		"polymorphicIdentifier:withIdentifier:" : "MLB 2/16/2018 18:18",
+		"useHandlerForIdentifier:andValue:" : "MLB 2/16/2018 18:18" } }
