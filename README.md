@@ -5,7 +5,7 @@ This is an implementation of polymorphic identifiers for Squeak.
 ## Installation
 1. Get [Squeak 5.0 or later](http://www.squeak.org)
 2. Load [Metacello](https://github.com/Metacello/metacello)
-3. Finally, load Ohm/S with the following command:
+3. Finally, load Polymorphic Identifiers with the following command:
 
 ```Smalltalk
 Metacello new
