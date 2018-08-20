@@ -1,4 +1,4 @@
-# Squeak Polymorphic Identifiers 
+# Squeak Polymorphic Identifiers
 Polymorphic Identifiers aim to provide uniform access to all different kinds of user defined storage.
 This is an implementation of polymorphic identifiers for Squeak.
 
@@ -17,6 +17,9 @@ Metacello new
 ```Smalltalk
 Smalltalk at: #PolymorphicIdentifierHandler put: GlobalSchemaHandler new
 ```
+
+### Build status
+[![Build Status](https://travis-ci.org/hpi-swa-lab/squeak-polymorphic-identifiers.svg?branch=master)](https://travis-ci.org/hpi-swa-lab/squeak-polymorphic-identifiers) (Disclaimer: build includes no tests currently)
 
 ## Usage
 To use Polymorphic Identifiers just implement a method ```compilerClass``` on class side of the class you want use them in. ```compilerClass``` should just return PICompiler.
