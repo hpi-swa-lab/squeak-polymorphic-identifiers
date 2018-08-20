@@ -1,0 +1,15 @@
+SmalltalkCISpec {
+  #loading : [
+    SCIMetacelloLoadSpec {
+      #baseline : 'PolymorphicIdentifiers',
+      #directory : 'packages',
+      #platforms : [ #squeak ]
+    }
+  ],
+  #testing : {
+    #categories : [ 'PI-*' ],
+    #coverage : {
+      #categories : [ 'PI-*' ]
+    }
+  }
+}
