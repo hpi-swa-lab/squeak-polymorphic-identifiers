@@ -10,6 +10,7 @@ SmalltalkCISpec {
     #categories : [ 'PI-*' ],
     #coverage : {
       #categories : [ 'PI-*' ]
-    }
+    },
+    #failOnZeroTests : true
   }
 }
