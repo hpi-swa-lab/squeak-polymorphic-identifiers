@@ -1,4 +1,4 @@
-as yet unclassified
+public access
 parse: textOrStream in: aClass notifying: req
 
 	| newSource |

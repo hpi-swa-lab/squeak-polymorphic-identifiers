@@ -1,4 +1,4 @@
-as yet unclassified
+polymorphic-identifier
 set: aRelativeUri item: anItem inContext: aContext
 	"comment stating purpose of message"
 

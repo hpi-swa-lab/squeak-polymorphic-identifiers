@@ -1,4 +1,4 @@
-as yet unclassified
+private
 rewrite: aCue
 
 	| cst |

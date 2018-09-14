@@ -1,4 +1,4 @@
-as yet unclassified
+public access
 compile: textOrStream in: aClass notifying: aRequestor ifFail: failBlock 
 	"Overwrites default compile method to rewrite sourceString"
 	

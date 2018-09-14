@@ -1,4 +1,4 @@
-as yet unclassified
+polymorphic-identifier
 set: anIdentifier item: anItem
 	
 	self subclassResponsibility

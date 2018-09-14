@@ -1,4 +1,4 @@
-as yet unclassified
+polymorphic-identifier
 set: aUri item: anItem
 
 	| context uri |

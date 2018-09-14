@@ -1,4 +1,4 @@
-as yet unclassified
+accessing
 scheme: anObject
 
 	scheme := anObject

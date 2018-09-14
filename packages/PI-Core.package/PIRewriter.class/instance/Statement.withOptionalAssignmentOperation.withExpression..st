@@ -1,4 +1,4 @@
-as yet unclassified
+semantic actions
 Statement: aNode withOptionalAssignmentOperation: optionalAssignmentOperation withExpression: Expression 
 
 	| assignedVariableName |

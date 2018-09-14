@@ -1,4 +1,4 @@
-as yet unclassified
+accessing
 newPost: anObject
 	
 	newPost := anObject

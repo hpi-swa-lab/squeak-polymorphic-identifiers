@@ -1,4 +1,4 @@
-as yet unclassified
+polymorphic-identifier
 get: aUri
 	
 	self subclassResponsibility
