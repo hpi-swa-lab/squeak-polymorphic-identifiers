@@ -15,7 +15,7 @@ Metacello new
 ```
 4. Finally, you have to register the Global Schema Handler in the Smalltalk dictionary with the following line:
 ```Smalltalk
-Smalltalk at: #PolymorphicIdentifierHandler put: GlobalSchemaHandler new
+Smalltalk at: #PolymorphicIdentifierHandler put: PIGlobalSchemaHandler new
 ```
 
 ### Build status
